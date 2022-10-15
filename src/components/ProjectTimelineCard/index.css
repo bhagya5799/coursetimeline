@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.projectContainer{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+}
+.course-title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+.visit{
+ color: rgb(37, 55, 158);
+  }
+.img-url{
+    height: 80%;
+    width: 100%;
+  }
+a{
+  color: blue;
+  font-weight: bold;
+  font-size: 16px;
+}
+.duration{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 5px;
+}
